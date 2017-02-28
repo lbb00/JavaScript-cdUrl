@@ -40,8 +40,3 @@ var mURL = test.cd('../...../../././bt');
 // "https://example.com/about/bt"
 cosole.log(mURL);
 ```
-
-# 高级用法
-
-懒了，代码注释写了很多，看看代码吧，有空再更新。
-
